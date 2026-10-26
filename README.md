@@ -66,7 +66,4 @@ This software is released under the GNU General Public License v3.0 (GPL-3.0).
 Research documentation is based on the Unified Fractal Theory published under CC BY-NC-SA 4.0.
 https://doi.org/10.5281/zenodo.18152385
 
-Support the Research:
-bitcoin:bc1qu6guczl68h6t0w044rhjlv5nxanjqps44galwh
-Buy Me A Coffee: buymeacoffee.com/tourneyx
-PayPal: @XaiTourney
+If you don't want to sponsor me you may Buy Me A Coffee: buymeacoffee.com/tourneyx
